@@ -1,12 +1,17 @@
-# passCraft_-_password_generator
+![Untitled-1](https://github.com/AgentP5547/passCraft_-_password_generator/assets/97083513/10762a09-6525-4fef-bdc6-1f3b9dd30819)
 
-this is a tool for generating passwords.
-you can generate at a minimum of 8 and a maximum of 128.
-these passwords are very stong also make sure to write them down somewhere.
+# PassCraft_-_password_generator
 
 
-# the exe file
-use it if you want if you dont trust it then you can use the main.py
+PassCraft is a cutting-edge password generator designed to simplify the process of creating strong and secure passwords.
 
-# credits to _puls3_
-he started the project
+
+
+# Starting Passcraft
+You can just run the program by clicking the "Passcraft.exe".
+If you don't trust it, you can still use the "main.py" and compile the code yourself.
+
+# Credits 
+Zer0Gr@v!ty
+_Puls3
+
