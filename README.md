@@ -8,6 +8,6 @@ You can just run the program by clicking the "Passcraft.exe".
 If you don't trust it, you can still use the "main.py" and compile the code yourself.
 
 # Credits 
-Zer0Gr@v!ty, 
-_Puls3
+zerogravity___, 
+_puls3_
 
